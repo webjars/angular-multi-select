@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-multi-select</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.0</version>
     <name>angular-multi-select</name>
     <description>WebJar for angular-multi-select</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-multi-select</url>
         <connection>scm:git:https://github.com/webjars/angular-multi-select.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-multi-select.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-multi-select-3.0.0</tag>
     </scm>
     
     <dependencies>
